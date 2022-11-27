@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thar Htet Zan</h1>
-<h3 align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Coding+is+fun+until+it+isn't)](https://git.io/typing-svg)
-</h3>
 
 - 🔭 I’m currently working on [Artify](https://github.com/SakutaTHZ/artify_final.github.io)
 
@@ -19,7 +17,9 @@
 
 - 📄 Know about my experiences [might add later](might add later)
 
-- ⚡ Fun fact **[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=I+look+like+I+know+things+but+I+don't+(JK))](https://git.io/typing-svg)**
+- ⚡ Fun fact 
+
+**[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=I+look+like+I+know+things+but+I+don't+(JK))](https://git.io/typing-svg)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
