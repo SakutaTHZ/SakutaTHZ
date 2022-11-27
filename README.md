@@ -1,4 +1,4 @@
-<img src="https://github.com/SakutaTHZ/SakutaTHZ/blob/2d2c5fa9d2325a364e7c631032a663f3f144e815/header.png">
+<img src="banner.png">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Coding+is+fun+until+it+isn't)](https://git.io/typing-svg)
 
