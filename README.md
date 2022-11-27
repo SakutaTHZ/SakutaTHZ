@@ -12,13 +12,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SakutaTHZ](https://github.com/SakutaTHZ)
 
-- 💬 Ask me about **frontend development**
-
 - 📫 How to reach me **thzarts@gmail.com**
 
-- 📄 Know about my experiences [might add later](might add later)
-
-- ⚡ Fun fact 
+- ⚡ Fun fact
 
 **[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=I+look+like+I+know+things+but+I+don't+(JK))](https://git.io/typing-svg)**
 
