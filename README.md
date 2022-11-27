@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thar Htet Zan</h1>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Coding+is+fun+until+it+isn't)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on [Artify](https://github.com/SakutaTHZ/artify_final.github.io)
