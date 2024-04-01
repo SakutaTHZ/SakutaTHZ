@@ -4,9 +4,9 @@
 
 ___
 
-- 🔭 I’m currently working on [Artify](https://github.com/SakutaTHZ/artify_final.github.io)
+- 🔭 I’m currently working on [My Portfolio](https://tharhtetzan.netlify.app/)
 
-- 🌱 I’m currently learning **JAVA, Spring**
+- 🌱 I’m currently learning **React,Figma**
 
 - 👯 I’m looking to collaborate on **Upcoming ideas**
 
